@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
