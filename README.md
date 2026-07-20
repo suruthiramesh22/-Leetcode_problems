@@ -17,4 +17,9 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
