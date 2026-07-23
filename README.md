@@ -27,5 +27,10 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
