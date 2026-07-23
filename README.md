@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
