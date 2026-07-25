@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
