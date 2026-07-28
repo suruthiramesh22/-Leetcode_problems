@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0771-jewels-and-stones) |
 ## Binary Search
