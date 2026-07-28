@@ -37,6 +37,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1929-concatenation-of-array) |
@@ -51,6 +52,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
