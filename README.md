@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
