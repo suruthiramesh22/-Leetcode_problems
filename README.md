@@ -34,6 +34,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -47,6 +48,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Simulation
 |  |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
