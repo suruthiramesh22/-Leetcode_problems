@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
@@ -45,6 +46,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/1929-concatenation-of-array) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
