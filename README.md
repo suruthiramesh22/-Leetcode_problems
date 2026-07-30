@@ -36,6 +36,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0055-jump-game) |
 ## Stack
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/suruthiramesh22/-Leetcode_problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
